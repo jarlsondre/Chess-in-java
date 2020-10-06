@@ -12,4 +12,8 @@ using Maven. In order to run the game, you must run mvn javafx:run.
 - En passant
 - Castling
 - Promotion
+- Notify player when in check
+- Notify player when check mate
+- Ability to restart game
+- See score in points (based on pieces, not position)
 - Playing against computer
