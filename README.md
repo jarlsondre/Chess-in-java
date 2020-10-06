@@ -1,4 +1,4 @@
-# Chess
+# Chess (not finished)
 
 This is the game Chess implemented in Java. The structure is built 
 using Maven. In order to run the game, you must run mvn javafx:run.
